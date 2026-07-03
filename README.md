@@ -54,25 +54,25 @@ HR-Analytics-Dashboard-PowerBI
 
 ## 🏠 Executive Overview
 
-![Executive Overview](Screenshot/Executive_Overview.png)
+![Executive Overview](Screenshots/Executive_Overview.png)
 
 ---
 
 ## 👥 Workforce & Attrition Analysis
 
-![Workforce & Attrition Analysis](Screenshot/Workforce_And_Attrition_Analysis.png)
+![Workforce & Attrition Analysis](Screenshots/Workforce_And_Attrition_Analysis.png)
 
 ---
 
 ## 📈 Performance & Engagement Analysis
 
-![Performance & Engagement Analysis](Screenshot/Performance_And_Engagement_Analysis.png)
+![Performance & Engagement Analysis](Screenshots/Performance_And_Engagement_Analysis.png)
 
 ---
 
 ## 🎓 Training & Development Analysis
 
-![Training & Development Analysis](Screenshot/Training_And_Development_Analysis.png)
+![Training & Development Analysis](Screenshots/Training_And_Development_Analysis.png)
 
 ---
 
