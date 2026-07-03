@@ -60,7 +60,7 @@ HR-Analytics-Dashboard-PowerBI
 
 ## 👥 Workforce & Attrition Analysis
 
-![Workforce & Attrition Analysis](Screenshots/Workforce_And_Attrition_Analysis.png)
+![Workforce & Attrition Analysis](Screenshots/WorkForce_And_Attrition_Analysis.png)
 
 ---
 
